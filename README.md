@@ -1,7 +1,18 @@
 # 💫 About Me:
-FULL STACK DEVELOPER 1 MERN SPECIALIST
+# 💫 Hi 👋, I'm Abhishek Dangi
 
+### A Passionate B.Tech CSE (AI & ML) Student | Python Developer | AI/ML Enthusiast | Aspiring Software Engineer from India
 
+📧 **Email Me 👉** [abhit3647@gmail.com] for Collaboration, Projects, or Anything Else. 😊
+
+* 🔭 **I’m currently working on:** AI & Machine Learning Projects and Python Applications
+* 🌱 **I’m currently learning:** Machine Learning, Deep Learning, Cloud Computing, and Data Structures & Algorithms
+* 👯 **I’m looking to collaborate on:** AI/ML, Python, and Open Source Projects
+* 🤔 **I’m looking for help with:** Advanced AI/ML and Real-World Development Projects
+* 💬 **Ask me about:** Python, AI/ML, Git & GitHub, and Programming
+* 📫 **How to reach me:** abhit3647@gmail.com
+* 😄 **Pronouns:** A D 
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ad__thakor_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhishekdangi1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:addythakurr100@gmail.com) 
 
