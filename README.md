@@ -43,6 +43,5 @@
 [![](https://komarev.com/ghpvc/?username=abhishekdangi1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-...&cache_seconds=1800
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
