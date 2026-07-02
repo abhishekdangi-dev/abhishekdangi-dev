@@ -11,7 +11,7 @@
 * 🤔 **I’m looking for help with:** Advanced AI/ML and Real-World Development Projects
 * 💬 **Ask me about:** Python, AI/ML, Git & GitHub, and Programming
 * 📫 **How to reach me:** abhit3647@gmail.com
-* 😄 **Pronouns:** A D 
+* 😄 **Pronouns:** A D
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ad__thakor_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhishekdangi1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:addythakurr100@gmail.com) 
